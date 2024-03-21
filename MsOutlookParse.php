@@ -1,4 +1,4 @@
-
+<?php
 /**
  * Parse Outlook's Thread-Index header.
  *
